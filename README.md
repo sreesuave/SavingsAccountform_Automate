@@ -75,10 +75,14 @@ Locator Strategy
 
 All form fields are located using dynamic XPath expressions based on their visible labels. This ensures resilience against layout changes and improves readability.
 
-public WebElement getInputFieldByLabel(String label) {
+
+ 
+```
+ public WebElement getInputFieldByLabel(String label) {
     String xpath = String.format("//label[text()='%s']/following-sibling::input", label);
     return driver.findElement(By.xpath(xpath));
 }
+```
 
 Code Philosophy
 
