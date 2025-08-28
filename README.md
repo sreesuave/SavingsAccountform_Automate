@@ -52,8 +52,7 @@ form-automation-framework/
 │
 ├── pom.xml                           # Maven build configuration
 ├── README.md                         # Project documentation
-└── .gitignore                       # Git ignore rules
-
+└── .gitignore                        # Git ignore rules
 
 ---
 
