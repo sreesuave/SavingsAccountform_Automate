@@ -31,6 +31,9 @@ This project automates a dynamic HTML form using Selenium WebDriver, Java, and C
 ## 📁 Project Structure
 
 
+## 📁 Project Structure
+
+```
 form-automation-framework/
 ├── features/                         # Gherkin feature files
 │   └── form.feature                  # Scenario for form submission
@@ -53,6 +56,8 @@ form-automation-framework/
 ├── pom.xml                           # Maven build configuration
 ├── README.md                         # Project documentation
 └── .gitignore                        # Git ignore rules
+```
+
 
 ---
 
