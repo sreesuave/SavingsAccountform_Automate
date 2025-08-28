@@ -28,7 +28,6 @@ This project automates a dynamic HTML form using Selenium WebDriver, Java, and C
 
 ---
 
-## 📁 Project Structure
 
 
 ## 📁 Project Structure
